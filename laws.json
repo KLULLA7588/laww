@@ -1,0 +1,132 @@
+{
+  "laws": [
+    {
+      "category": "Theft",
+      "section": "378",
+      "title": "Theft",
+      "description": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to take it.",
+      "punishment": "Imprisonment up to 3 years, or fine, or both.",
+      "keywords": "steal,stole,mobile,phone,shop,pickpocket,rob,take,thief"
+    },
+    {
+      "category": "Theft",
+      "section": "379",
+      "title": "Punishment for Theft",
+      "description": "Whoever commits theft shall be punished with imprisonment.",
+      "punishment": "Imprisonment up to 3 years, or fine, or both.",
+      "keywords": "theft,steal"
+    },
+    {
+      "category": "Extortion",
+      "section": "383",
+      "title": "Extortion",
+      "description": "Whoever intentionally puts any person in fear of any injury and thereby dishonestly induces that person to deliver any property.",
+      "punishment": "Imprisonment up to 3 years, or fine, or both.",
+      "keywords": "threaten,demand,money,extort,blackmail,ransom"
+    },
+    {
+      "category": "Cheating",
+      "section": "420",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "description": "Whoever cheats and thereby dishonestly induces any person to deliver any property or to make any valuable security.",
+      "punishment": "Imprisonment up to 7 years and fine.",
+      "keywords": "cheat,fraud,scam,investment,trick,money,online fraud"
+    },
+    {
+      "category": "Criminal Breach of Trust",
+      "section": "406",
+      "title": "Criminal breach of trust",
+      "description": "Whoever commits criminal breach of trust shall be punished.",
+      "punishment": "Imprisonment up to 3 years, or fine, or both.",
+      "keywords": "trust,misuse,property,money"
+    },
+    {
+      "category": "Assault",
+      "section": "352",
+      "title": "Punishment for assault or criminal force",
+      "description": "Whoever assaults or uses criminal force to any person.",
+      "punishment": "Imprisonment up to 3 months, or fine up to ₹500, or both.",
+      "keywords": "hit,beat,slap,assault,push"
+    },
+    {
+      "category": "Hurt",
+      "section": "323",
+      "title": "Voluntarily causing hurt",
+      "description": "Whoever voluntarily causes hurt to any person.",
+      "punishment": "Imprisonment up to 1 year, or fine up to ₹1,000, or both.",
+      "keywords": "hurt,injure,wound,beat"
+    },
+    {
+      "category": "Murder",
+      "section": "302",
+      "title": "Punishment for murder",
+      "description": "Whoever commits murder shall be punished with death or imprisonment for life.",
+      "punishment": "Death or imprisonment for life and fine.",
+      "keywords": "kill,murder,death"
+    },
+    {
+      "category": "Attempt to Murder",
+      "section": "307",
+      "title": "Attempt to murder",
+      "description": "Whoever does any act with intention or knowledge that it may cause death.",
+      "punishment": "Imprisonment up to 10 years and fine.",
+      "keywords": "attempt,kill,shoot,poison"
+    },
+    {
+      "category": "Rape",
+      "section": "376",
+      "title": "Punishment for rape",
+      "description": "Whoever commits rape shall be punished with rigorous imprisonment.",
+      "punishment": "Rigorous imprisonment not less than 10 years, may extend to life.",
+      "keywords": "rape,sexual,force,woman"
+    },
+    {
+      "category": "Assault on Woman",
+      "section": "354",
+      "title": "Assault or criminal force to woman with intent to outrage her modesty",
+      "description": "Whoever assaults or uses criminal force to any woman with intent to outrage her modesty.",
+      "punishment": "Imprisonment up to 2 years, or fine, or both.",
+      "keywords": "molest,outrage,modesty,eve teasing"
+    },
+    {
+      "category": "Insult to Woman",
+      "section": "509",
+      "title": "Word, gesture or act intended to insult the modesty of a woman",
+      "description": "Whoever intends to insult the modesty of a woman by word, gesture or act.",
+      "punishment": "Imprisonment up to 3 years and fine.",
+      "keywords": "insult,gesture,woman,eve teasing"
+    },
+    {
+      "category": "Dowry Death",
+      "section": "304B",
+      "title": "Dowry death",
+      "description": "Where the death of a woman is caused by burns or bodily injury within 7 years of marriage.",
+      "punishment": "Imprisonment not less than 7 years, may extend to life.",
+      "keywords": "dowry,death,bride,burn"
+    },
+    {
+      "category": "Cruelty by Husband",
+      "section": "498A",
+      "title": "Husband or relative subjecting woman to cruelty",
+      "description": "Whoever subjects a woman to cruelty by husband or his relatives.",
+      "punishment": "Imprisonment up to 3 years and fine.",
+      "keywords": "cruelty,harass,torture,dowry"
+    },
+    {
+      "category": "Cybercrime",
+      "section": "66",
+      "title": "IT Act Section 66 - Computer related offences",
+      "description": "Hacking, identity theft, data theft, sending offensive messages, etc.",
+      "punishment": "Imprisonment up to 3 years and/or fine up to ₹5 lakh.",
+      "keywords": "hack,hacking,account,password,money transfer,phishing"
+    },
+    {
+      "category": "Cybercrime",
+      "section": "67",
+      "title": "IT Act Section 67 - Publishing obscene material",
+      "description": "Publishing or transmitting obscene material in electronic form.",
+      "punishment": "Imprisonment up to 3 years and fine.",
+      "keywords": "obscene,porn,video,photo"
+    }
+  ]
+}
